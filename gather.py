@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pushshift
 from datetime import datetime
 from typing import List
